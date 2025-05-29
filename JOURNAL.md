@@ -1,6 +1,6 @@
 ---
 title: XY Plotter
-author: (Bhardwaj Prasad Sutara, U08TRFB6811)(Atul Kumar Mishra, )(Dishant Singh, )
+author: (Bhardwaj Prasad Sutara, U08TRFB6811)(Atul Kumar Mishra, )(Dishant Singh, U08TMCVHA9H )
 description: "Describe your project in a short sentence!"
 created_at: "2025-05-18"
 ---
@@ -29,5 +29,31 @@ So I added it.
 **Total time spent: 10 min**
 
 
+# may 26: 
+I Dishant Singh, first selected the software i am going to use, onshape and started learning it.Learned all the basics made two practice models 
+
+![Onshape](https://github.com/user-attachments/assets/ca515a21-ca4f-4d53-89ff-3895f4c5156b)
+
+**Total time spent: 2 hours**
 
 
+# may 27: 
+I Dishant singh started the actual project and made the gear, bearing holder and pen holder. completed the easy ones first 
+
+![day 2](https://github.com/user-attachments/assets/479d9689-c4b0-43b0-852e-c547b65b3d7d)
+
+**Total time spent: 2.5 hours**
+
+# may 28: 
+I dishant singh, today completed the hardest part. finished the x- axis and y axis rail.
+
+![day 3](https://github.com/user-attachments/assets/ef9e4e7d-de67-4791-af2f-cf6a5334afb1)
+
+**Total time spent: 3-4 hours**
+
+# may 29:
+I dishant finally finished my all work with the final parts x and y axis sliding part or piece.
+
+![image](https://github.com/user-attachments/assets/dbe20402-d335-463e-a3c6-82a7fd015e1d)
+
+**Total time spent: 1.5-2 hours**
