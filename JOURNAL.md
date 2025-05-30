@@ -15,7 +15,7 @@ my homework that i am not gonna do, so thought of a writing robot. Researched on
 **Total time spent: 3.5h**
 
 # may 19:
-I Atul, discussed with  friends the idea they liked it. we formed a team though we already were. we discussed the mechanics, the tasks and devided them bhardwaj wiring and the coding after the assembling, dishant 3D modeling and me the main(me in hindi is main) is helping them both in all work as i did all the research and have many ideas in my mind and am the most experienced one.
+I Atul, discussed with  friends the idea they liked it. we formed a team though we already were. we discussed the mechanics, the tasks and devided them bhardwaj wiring with and the coding after the assembling, dishant 3D modeling and I will be helping them both in both wiring and 3d modeling as i have a bit of experience in both.
 
 # may 20: !
 I bhardwaj, started building the wiring diagram which is a main part of any hardware project. this day fully got dedicated towards learning to draw diagrams and researching on softwares
