@@ -5,6 +5,17 @@ description: "Describe your project in a short sentence!"
 created_at: "2025-05-18"
 ---
 
+# may 18: 
+I Atul kumar mishra, heard of highway and started thinking of an idea, looked at this 
+
+![homework](https://github.com/user-attachments/assets/8a72f049-78ba-4478-b43e-784b65d1e9af)
+my homework that i am not gonna do, so thought of a writing robot. Researched on it and got that it is called XY plotter, hence our project name XY Plotter. After that researched and found the parts required and how is it gonna work.
+
+**Total time spent: 3.5h**
+
+# may 19:
+I Atul, discussed with  friends the idea they liked it. we formed a team though we already were. we discussed the mechanics, the tasks and devided them bhardwaj wiring and the coding after the assembling, dishant 3D modeling and me the main(me in hindi is main) is helping them both in all work as i did all the research and have many ideas in my mind and am the most experienced one.
+
 # may 20: !
 I bhardwaj, started building the wiring diagram which is a main part of any hardware project. this day fully got dedicated towards learning to draw diagrams and researching on softwares
 
