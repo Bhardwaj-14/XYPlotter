@@ -12,4 +12,5 @@
 |Approximation/ miscellaneous|  | ₹300|  
 
 > **Total Estimated Cost:** ₹2970.79
+
 > **In USD:** $34.72
