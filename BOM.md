@@ -9,7 +9,7 @@
 | Charging Module                     | 1         | ₹67                   | [Buy Now](https://www.amazon.in/UNIVERSAL-HUB-Lithium-ion-Charging-Indicator/dp/B0BSC6HZVV/ref=sr_1_3?crid=2A6LG0CGPZZA6&dib=eyJ2IjoiMSJ9.SGMJV4DSsWs_QdEhFaV-D2Ff9TztH7HvtK4XmkeF9F_1zQzC_WOAaz_cz8jghtJxxQKWL9FWhiX_BCV8Xn7d22pz0VjcfNZOL5lQLZXsmm_ubn7YdJZ7qc_XX5Te1ZrjbKn3RpzvohFR2wOiZB3VQUWcaGfcNC6ofQWHbUiu0FiCuJR9pFVvSlaQcDYTzobK9KYk8GIlpZsCf_rl61MrfWOxkCuv5p_pb4kqpG38i4I.89spL8dECQL_TvRjMB8BtRYTvBaqpJBOSeexYGpARB8&dib_tag=se&keywords=charging%2Bmodule%2Btype%2Bc&qid=1748680163&sprefix=charging%2Bmodule%2Btype%2B%2Caps%2C294&sr=8-3&th=1) |
 | 3D printing                         | 7         | ₹689                  | From robu|
 |GST| ₹91.02 
-
 |Approximation/ miscellaneous|  | ₹300|  
+
 > **Total Estimated Cost:** ₹2970.79
 > **In USD:** $34.72
