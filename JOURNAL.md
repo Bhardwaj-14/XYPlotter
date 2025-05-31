@@ -59,7 +59,7 @@ I Dishant singh started the actual project and made the gear, bearing holder and
 # may 28: 
 I dishant singh, today completed the hardest part. finished the x- axis and y axis rail.
 
-![day 3](https://github.com/user-attachments/assets/ef9e4e7d-de67-4791-af2f-cf6a5334afb1)
+![day 3](https://github.com/user-attachments/assets/ef9e4e7d-de67-4791-af2f-cf6a5334afb1) 
 
 **Total time spent: 3-4 hours**
 
