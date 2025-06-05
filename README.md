@@ -8,8 +8,11 @@ We built it to help with homework, and we in turn would focus on making things!
 Moreover Indian homework is just a chatGPT'/book copy paste thingy tbh.
 
 Team:
+
 *Bhardwaj Prasad Sutara
+
 *Atul Kumar Mishra
+
 *Dishant Singh
 
 What We Did:
