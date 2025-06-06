@@ -31,7 +31,7 @@ Arduino + Stepper Motors and some 3D printed parts
 
 
 
-#How to build:
+# How to build
 
 *Print all the parts and buy the electronics required(for electronics, refer to the BOM)
 
