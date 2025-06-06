@@ -5,6 +5,9 @@ description: "Describe your project in a short sentence!"
 created_at: "2025-05-18"
 ---
 
+# Total time spent: 21 hours 25 minutes
+** Time spent on readme.md : 2 hours**
+
 # may 18: 
 I Atul kumar mishra, heard of highway and started thinking of an idea, looked at this 
 
