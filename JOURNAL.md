@@ -1,7 +1,7 @@
 ---
 title: XY Plotter
 author: (Bhardwaj Prasad Sutara, U08TRFB6811)(Atul Kumar Mishra, U08U8U16CHX )(Dishant Singh, U08TMCVHA9H )
-description: "Describe your project in a short sentence!"
+description: "A low cost simple writing robot/machine which uses 3 stepper motors and arduino uno that can draw or write anything you send to it with intense accuracy."
 created_at: "2025-05-18"
 ---
 
