@@ -32,9 +32,12 @@ Arduino + Stepper Motors and some 3D printed parts
 
 
 #How to build:
+
 *Print all the parts and buy the electronics required(for electronics, refer to the BOM)
+
 *Refer to the wiring diagram and connect all the parts together properly.
-*COnnect the arduino to PC to power it up and power the motor drivers and you are good to go!
+
+*Connect the arduino to PC to power it up and power the motor drivers and you are good to go!
 
 
 The Final thing looks like this(3D version)
