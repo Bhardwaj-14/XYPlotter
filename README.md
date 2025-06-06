@@ -18,9 +18,19 @@ Team:
 What We Did:
 Atul came up with the idea after staring at unfinished homework. Bhardwaj(I) handled the wiring and software, while Dishant modeled the parts in Onshape. We worked together to build a working XY plotter from scratch.
 
+This is the wiring
+
+![Wiring_Diagram(FINAL)](https://github.com/user-attachments/assets/f3011318-92b6-4ee0-b3f4-99cf40ddf4c3)
+
 Tools used:
 *Cirkit Designer (wiring) {https://app.cirkitdesigner.com/}
 *Onshape (3D design)
 
 Parts:
 Arduino + Stepper Motors and some 3D printed parts
+
+
+The Final thing looks like this
+![Screenshot 2025-06-06 at 4 34 12 PM](https://github.com/user-attachments/assets/d11055c0-a392-40fa-9481-139f1b709175)  ![Screenshot 2025-06-06 at 4 34 24 PM](https://github.com/user-attachments/assets/835eeecf-19e3-4287-9cee-356117093ba6)
+
+
