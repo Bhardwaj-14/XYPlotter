@@ -1,7 +1,7 @@
 # XY Plotter
 
 **What?:**
-A low cost simple writing robot that can draw or write anything you send to it with intense accuracy. 
+A low cost simple writing robot/machine which uses 3 stepper motors and arduino uno that can draw or write anything you send to it with intense accuracy. 
 
 **The WHY?:**
 We built it to help with homework, and we in turn would focus on making things!
